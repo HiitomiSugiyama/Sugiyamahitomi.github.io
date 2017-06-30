@@ -1,0 +1,125 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+}
+
+body{
+    background-image: url("images/back.png");
+}
+
+h2{
+    color: #9f3;
+    background-color: #fc0;
+    font-size: 50px;
+    width: 900px;
+    text-shadow:  -1px -1px #069,
+                   2px -1px #069,
+                  -1px -1px #069,
+                   2px  2px #069;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+h1{
+    color: #93c;
+    background-color: #6f9;
+    font-size: 60px;
+    text-align: center;
+    text-shadow:  -1px -1px #fff,
+                   2px -1px #fff,
+                  -1px -1px #fff,
+                   2px  2px #fff;
+}
+
+h3{
+    line-height: 50px;
+    font-size: 47px;
+    text-align: center;
+    color: #fcf;
+    text-shadow:  -1px -1px #f09,
+                   2px -1px #f09,
+                  -1px -1px #f09,
+                   2px  2px #f09;
+    margin-top: 20px;
+}
+
+h4{
+    font-size: 25px;
+    line-height: 70px;
+    color: #005;
+    margin-top: 20px;
+    width: 480px;
+}
+
+.two h4 {
+    font-size: 25px;
+    line-height: 60px;
+    color: #005;
+    margin-top: 20px;
+    width: 480px;
+}
+
+.b{
+    width: 400px;
+    float: right;
+}
+
+.c{
+    width: 400px;
+    float: left;
+}
+
+.one{
+    width: 500px;
+    float: right;
+}
+
+.two{
+    width: 500px;
+    float: left;
+    
+}
+
+.clum2{
+    background-color: #bff;
+    width: 1000px;
+    height: 400px;
+    display: block;
+    margin-bottom: 50px;
+}
+
+.clum3{
+    background-color: #bff;
+    width: 1000px;
+    height: 409px;
+    display: block;
+    margin-bottom: 50px;
+}
+
+.clum4{
+    width: 1000px;
+    height: 100px;
+    display: block;
+    margin-bottom: 50px;
+    text-align: center;
+    
+}
+
+a{
+    font-size: 25px;
+    width: 200px;
+    height: 50px;
+    background-color: #bff;
+    text-align: center;
+    display: block;
+    text-decoration: none;
+    border: 3px solid #005;
+    border-radius: 25px;
+    padding-top: 15px;
+}
+
+a:hover{
+    background-color: #fcf;
+    border: 3px solid #005;
+}
